@@ -241,7 +241,7 @@
     {
       "name": "Md. Jakarea",
       "title": " Graduate Researcher",
-      "image": "./res/AR.png",
+      "image": "./res/jakarea.jpeg",
       "shortDescription": "Md. Jakarea, an Electrical and Electronic Engineering graduate from United International University, specializes in IoT and biomedical signal analysis. His final year project focused on an IoT-based emergency rescue system using life jackets. Jakarea has also worked as a researcher under Prof. Sami Azam from Charles Darwin University, contributing to the development of an integrative framework for myocardial infarction diagnosis using ECG signals, combining advanced signal analysis, feature extraction, and graph convolutional networks.",
       "interests": [
         "IoT",
@@ -451,7 +451,8 @@
         "twitter": "https://twitter.com/jwilson_cv",
         "github": "https://github.com/jameswilson"
       }
-    },{
+    },
+    {
       "name": "Amit Mahmud Sabbir",
       "title": " Undergraduate Researcher",
       "image": "./res/Sabbir.jpeg",
