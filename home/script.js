@@ -1,5 +1,5 @@
 // Fetch news articles from news.json and render them
-fetch('news.json')
+fetch('./home/news.json')
   .then(response => response.json())
   .then(data => {
     const newsGrid = document.querySelector('.news-grid');
