@@ -1,0 +1,51 @@
+
+@import url('../home/style.css');
+
+.join-us {
+  padding: 100px 20px;
+  background: var(--color-tertiary);
+  color: #333;
+}
+
+.join-us h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  color: #000080;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.join-us p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.join-us h2 {
+  font-size: 24px;
+  color: #000080;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.join-us ul {
+  list-style: disc;
+  padding-left: 40px;
+  font-size: 16px;
+  color: #333;
+}
+
+.join-us ul li {
+  margin-bottom: 10px;
+}
+
+.join-us a {
+  color: #000080;
+  text-decoration: none;
+}
+
+.join-us a:hover {
+  color: var(--hover-color);
+  text-decoration: underline;
+}

@@ -1,0 +1,213 @@
+{
+    "directors": [
+      {
+        "name": "Dr. Sarah Chen",
+        "title": "Lab Director & Principal Investigator",
+        "image": "./res/abdur_rahman.jpg",
+        "shortDescription":"lordddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddd dddddddddddddddddd dddddddddasldfal;sdjkfl;kas;dl ;lakdsfl;kasdf;lk 'l;asdkf;lkfasddl;fk a;sldkfas;dlfk;l' ka as;dlk                         sakllllllllllllllllllllllllllllllllllllllll           aslkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   jjjjjjjjjjjjjjjjjjjjjjjjj fassdcfgsdfgiksdjlk sdlfjsdl;afjk;lk s;dlfksdl;fksdl;fk s'dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl; as;dlfksdal; l;dkfasdl;kf ';alsdkfa;sdlkfasd;lfk al;sdkfas;dlfkasdl;k dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+        "interests": [
+          "Deep Learning",
+          "Computer Vision",
+          "Explainable AI",
+          "Neural Architecture Search"
+        ],
+        "education": [
+          "Ph.D. in Computer Science, Stanford University",
+          "M.S. in Artificial Intelligence, MIT",
+          "B.S. in Computer Engineering, UC Berkeley"
+        ],
+        "publications": [
+          "Chen, S. et al. (2023). 'Neural Architecture Search for Efficient Vision Transformers', NeurIPS 2023",
+          "Chen, S., Johnson, M. (2022). 'Explainable Deep Learning: A New Frontier', ICML 2022",
+          "Chen, S. et al. (2021). 'Advancing Computer Vision Through Self-Supervised Learning', CVPR 2021",
+          "Chen, S., Smith, J. (2020). 'Understanding Deep Neural Networks', Nature Machine Intelligence"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=chen-s",
+          "linkedin": "https://linkedin.com/in/sarah-chen-ai",
+          "twitter": "https://twitter.com/sarahchen_ai",
+          "github": "https://github.com/sarahchen"
+        }
+      },
+      {
+        "name": "Dr. Michael Rodriguez",
+        "title": "Co-Director & Senior Research Scientist",
+        "image": "../resources/researchers/michael-rodriguez.jpg",
+        "interests": [
+          "Natural Language Processing",
+          "Machine Learning Systems",
+          "Multimodal Learning",
+          "Distributed AI"
+        ],
+        "education": [
+          "Ph.D. in Computer Science, Carnegie Mellon University",
+          "M.S. in Computer Science, Georgia Tech",
+          "B.S. in Mathematics, University of Texas"
+        ],
+        "publications": [
+          "Rodriguez, M. et al. (2023). 'Scaling Language Models: A Systems Perspective', ACL 2023",
+          "Rodriguez, M., Chen, S. (2022). 'Multimodal Learning in Practice', EMNLP 2022",
+          "Rodriguez, M. et al. (2021). 'Efficient Training of Large Language Models', ICLR 2021"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=rodriguez-m",
+          "linkedin": "https://linkedin.com/in/michael-rodriguez-ml",
+          "twitter": "https://twitter.com/mrodriguez_ai",
+          "github": "https://github.com/mrodriguez"
+        }
+      }
+    ],
+    "graduate_research": [
+      {
+        "name": "Dr. Emily Zhang",
+        "title": "Senior Research Scientist",
+        "image": "../resources/researchers/emily-zhang.jpg",
+        "interests": [
+          "Reinforcement Learning",
+          "Robotics",
+          "Human-AI Interaction",
+          "AI Safety"
+        ],
+        "education": [
+          "Ph.D. in Robotics, University of Michigan",
+          "M.S. in Mechanical Engineering, ETH Zurich",
+          "B.S. in Computer Science, Tsinghua University"
+        ],
+        "publications": [
+          "Zhang, E. et al. (2023). 'Safe Reinforcement Learning for Robotics', ICRA 2023",
+          "Zhang, E., Chen, S. (2022). 'Human-in-the-Loop Reinforcement Learning', CoRL 2022",
+          "Zhang, E. et al. (2021). 'Adaptive Robot Control Systems', RSS 2021"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=zhang-e",
+          "linkedin": "https://linkedin.com/in/emily-zhang-robotics",
+          "github": "https://github.com/emilyzhang"
+        }
+      },
+      {
+        "name": "Dr. James Wilson",
+        "title": "Research Scientist",
+        "image": "../resources/researchers/james-wilson.jpg",
+        "interests": [
+          "Computer Vision",
+          "3D Scene Understanding",
+          "Visual SLAM",
+          "Autonomous Navigation"
+        ],
+        "education": [
+          "Ph.D. in Computer Vision, Oxford University",
+          "M.S. in Computer Science, Imperial College London",
+          "B.S. in Electronics, University of Edinburgh"
+        ],
+        "publications": [
+          "Wilson, J. et al. (2023). 'Real-time 3D Scene Understanding', ECCV 2023",
+          "Wilson, J., Zhang, E. (2022). 'Visual SLAM for Autonomous Systems', ICCV 2022",
+          "Wilson, J. et al. (2021). 'Deep Learning for 3D Reconstruction', 3DV 2021"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=wilson-j",
+          "linkedin": "https://linkedin.com/in/james-wilson-cv",
+          "twitter": "https://twitter.com/jwilson_cv",
+          "github": "https://github.com/jameswilson"
+        }
+      }
+    ],
+    "undergraduate_research": [
+      {
+        "name": "Alex Kumar",
+        "title": "Ph.D. Candidate",
+        "image": "../resources/researchers/alex-kumar.jpg",
+        "interests": [
+          "Machine Learning",
+          "Natural Language Processing",
+          "Few-shot Learning",
+          "Meta Learning"
+        ],
+        "education": [
+          "M.S. in Computer Science, UCLA",
+          "B.S. in Computer Science, IIT Bombay"
+        ],
+        "publications": [
+          "Kumar, A., Rodriguez, M. (2023). 'Few-shot Learning for NLP Tasks', ACL 2023",
+          "Kumar, A. et al. (2022). 'Meta-learning Applications in NLP', EMNLP 2022"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=kumar-a",
+          "linkedin": "https://linkedin.com/in/alex-kumar",
+          "github": "https://github.com/alexkumar"
+        }
+      },
+      {
+        "name": "Maria Garcia",
+        "title": "Ph.D. Candidate",
+        "image": "../resources/researchers/maria-garcia.jpg",
+        "interests": [
+          "Computer Vision",
+          "Medical Image Analysis",
+          "Deep Learning",
+          "Healthcare AI"
+        ],
+        "education": [
+          "M.S. in Biomedical Engineering, Johns Hopkins University",
+          "B.S. in Computer Science, University of Madrid"
+        ],
+        "publications": [
+          "Garcia, M., Chen, S. (2023). 'Deep Learning for Medical Imaging', MICCAI 2023",
+          "Garcia, M. et al. (2022). 'AI in Healthcare Applications', Nature Medicine"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=garcia-m",
+          "linkedin": "https://linkedin.com/in/maria-garcia-ai",
+          "twitter": "https://twitter.com/mgarcia_ai"
+        }
+      },
+      {
+        "name": "David Kim",
+        "title": "Ph.D. Student",
+        "image": "../resources/researchers/david-kim.jpg",
+        "interests": [
+          "Reinforcement Learning",
+          "Game AI",
+          "Multi-agent Systems",
+          "Decision Making"
+        ],
+        "education": [
+          "M.S. in Artificial Intelligence, University of Toronto",
+          "B.S. in Computer Science, Seoul National University"
+        ],
+        "publications": [
+          "Kim, D., Zhang, E. (2023). 'Multi-agent Reinforcement Learning', AAMAS 2023",
+          "Kim, D. et al. (2022). 'Game AI Developments', AAAI 2022"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=kim-d",
+          "github": "https://github.com/davidkim",
+          "twitter": "https://twitter.com/kim_ai_research"
+        }
+      },
+      {
+        "name": "Rachel Thompson",
+        "title": "Ph.D. Student",
+        "image": "../resources/researchers/rachel-thompson.jpg",
+        "interests": [
+          "Natural Language Processing",
+          "Machine Translation",
+          "Low-resource Languages",
+          "Cross-lingual Transfer"
+        ],
+        "education": [
+          "M.S. in Computational Linguistics, University of Washington",
+          "B.A. in Linguistics, Brown University"
+        ],
+        "publications": [
+          "Thompson, R., Rodriguez, M. (2023). 'Low-resource Machine Translation', ACL 2023",
+          "Thompson, R. et al. (2022). 'Cross-lingual Transfer Learning', EMNLP 2022"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=thompson-r",
+          "linkedin": "https://linkedin.com/in/rachel-thompson-nlp",
+          "github": "https://github.com/rthompson"
+        }
+      }
+    ]
+  }

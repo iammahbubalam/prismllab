@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Explainable AI: Unraveling the Mysteries of Deep Learning",
+      "doi": "https://doi.org/10.1111/exsy.12345",
+      "journal": "Journal of Artificial Intelligence",
+      "abstract": "This paper presents a novel approach to making deep learning models more interpretable and explainable. This paper presents a novel approach to making deep learning models more interpretable and explainable. This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable. We introduce a technique that allows users to understand the reasoning behind a model's predictions, enabling greater trust and transparency in AI systems.",
+      "link": "https://example.com/paper1",
+      "thumbnail": "./res/thumbnail.jpg"
+    },
+    {
+      "title": "Generative Adversarial Networks for Image Synthesis",
+      "doi": "https://doi.org/10.1109/CVPR.2016.90",
+      "journal": "IEEE Conference on Computer Vision and Pattern Recognition",
+      "abstract": "Generative Adversarial Networks (GANs) have revolutionized the field of image synthesis, allowing for the generation of high-quality, realistic images. In this work, we propose improvements to the GAN architecture that result in more stable training and higher-fidelity outputs.",
+      "link": "https://example.com/paper2",
+      "thumbnail": "paper2-thumbnail.jpg"
+    },
+    {
+      "title": "Natural Language Processing for Sentiment Analysis",
+      "doi": "https://doi.org/10.1162/tacl_a_00051",
+      "journal": "Transactions of the Association for Computational Linguistics",
+      "abstract": "Sentiment analysis is an important task in natural language processing, with applications in areas such as customer service, social media monitoring, and product reviews. We present a new deep learning-based approach that outperforms existing methods in accuracy and efficiency.",
+      "link": "https://example.com/paper3",
+      "thumbnail": "paper3-thumbnail.jpg"
+    },
+    {
+      "title": "Reinforcement Learning for Autonomous Navigation",
+      "doi": "https://doi.org/10.1109/ICRA.2020.9196885",
+      "journal": "IEEE International Conference on Robotics and Automation",
+      "abstract": "Autonomous navigation is a key capability for mobile robots and self-driving vehicles. In this work, we develop a reinforcement learning-based approach that allows robots to learn how to navigate complex environments, adapting to changes and unexpected obstacles.",
+      "link": "https://example.com/paper4",
+      "thumbnail": "paper4-thumbnail.jpg"
+    },
+    {
+      "title": "Computer Vision for Medical Image Analysis",
+      "doi": "https://doi.org/10.1109/TMI.2019.2932525",
+      "journal": "IEEE Transactions on Medical Imaging",
+      "abstract": "The application of computer vision techniques to medical imaging has the potential to revolutionize disease diagnosis and treatment. We present a deep learning-based system that can accurately detect and classify various medical conditions from X-ray, CT, and MRI scans.",
+      "link": "https://example.com/paper5",
+      "thumbnail": "paper5-thumbnail.jpg"
+    }
+  ]
