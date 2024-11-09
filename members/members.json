@@ -3,7 +3,7 @@
       {
         "name": "Dr. Sami Azam",
         "title": "Lab Director & Principal Investigator",
-        "image": "../res/sami.jpeg",
+        "image": "./res/sami.jpeg",
         "shortDescription":"Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
         "interests": [
           "Deep Learning",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "name": "Dr. Michael Rodriguez",
+        "name": "Mohaimenul Azam Khan Raiaan",
         "title": "Associate Director",
         "image": "../res/raiaan.jpeg",
         "shortDescription": "Mohaimenul Azam Khan Raiaan is a computer science engineer working remotely as a Consultant-Research Assistant, affiliated with Charles Darwin University, Australia. His research primarily focuses on Medical Image Analysis, Computer Vision, Explainable Artificial Intelligence, and Deep Learning.",
@@ -56,11 +56,40 @@
           "twitter": "https://twitter.com/mrodriguez_ai",
           "github": "https://github.com/mrodriguez"
         }
+      },
+      {
+        "name": "Nur Mohammad Fahad",
+        "title": "Research Coordinator",
+        "image": "../res/fahad.jpeg",
+        "shortDescription":"Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
+        "interests": [
+          "Deep Learning",
+          "Computer Vision",
+          "Explainable AI",
+          "Neural Architecture Search"
+        ],
+        "education": [
+          "Ph.D. in Computer Science, Stanford University",
+          "M.S. in Artificial Intelligence, MIT",
+          "B.S. in Computer Engineering, UC Berkeley"
+        ],
+        "publications": [
+          "Chen, S. et al. (2023). 'Neural Architecture Search for Efficient Vision Transformers', NeurIPS 2023",
+          "Chen, S., Johnson, M. (2022). 'Explainable Deep Learning: A New Frontier', ICML 2022",
+          "Chen, S. et al. (2021). 'Advancing Computer Vision Through Self-Supervised Learning', CVPR 2021",
+          "Chen, S., Smith, J. (2020). 'Understanding Deep Neural Networks', Nature Machine Intelligence"
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=chen-s",
+          "linkedin": "https://linkedin.com/in/sarah-chen-ai",
+          "twitter": "https://twitter.com/sarahchen_ai",
+          "github": "https://github.com/sarahchen"
+        }
       }
     ],
     "graduate_research": [
       {
-        "name": "Dr. Emily Zhang",
+        "name": "Nur Mohammad Fahad",
         "title": "Senior Research Scientist",
         "image": "../resources/researchers/emily-zhang.jpg",
         "interests": [
