@@ -1,405 +1,477 @@
 {
-    "directors": [
-      {
-        "name": "Dr. Sami Azam",
-        "title": "Lab Director & Principal Investigator",
-        "image": "./res/sami.jpeg",
-        "shortDescription":"Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
-        "interests": [
+  "directors": [
+    {
+      "name": "Dr. Sami Azam",
+      "title": "Lab Director & Principal Investigator",
+      "image": "./res/sami.jpeg",
+      "shortDescription": "Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
+      "interests": [
         "computer vision",
         "signal processing",
         "artificial intelligence",
         "biomedical engineering"
-        ],
-        "education": [
-        
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=chen-s",
-          "linkedin": "https://linkedin.com/in/sarah-chen-ai",
-          "twitter": "https://twitter.com/sarahchen_ai",
-          "github": "https://github.com/sarahchen"
-        }
-      },
-      {
-        "name": "Mohaimenul Azam Khan Raiaan",
-        "title": "Associate Director",
-        "image": "./res/raiaan.jpeg",
-        "shortDescription": "Mohaimenul Azam Khan Raiaan is a computer science engineer working remotely as a Consultant-Research Assistant, affiliated with Charles Darwin University, Australia. His research primarily focuses on Medical Image Analysis, Computer Vision, Explainable Artificial Intelligence, and Deep Learning.",
-        "interests": [
+      ],
+      "education": [],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=chen-s",
+        "linkedin": "https://linkedin.com/in/sarah-chen-ai",
+        "twitter": "https://twitter.com/sarahchen_ai",
+        "github": "https://github.com/sarahchen"
+      }
+    },
+    {
+      "name": "Mohaimenul Azam Khan Raiaan",
+      "title": "Associate Director",
+      "image": "./res/raiaan.jpeg",
+      "shortDescription": "Mohaimenul Azam Khan Raiaan is a computer science engineer working remotely as a Consultant-Research Assistant, affiliated with Charles Darwin University, Australia. His research primarily focuses on Medical Image Analysis, Computer Vision, Explainable Artificial Intelligence, and Deep Learning.",
+      "interests": [
         "Medical Image Analysis",
         "Computer Vision",
         "Explainable Artificial Intelligence",
         "Deep Learning"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-         
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=rodriguez-m",
-          "linkedin": "https://linkedin.com/in/michael-rodriguez-ml",
-          "twitter": "https://twitter.com/mrodriguez_ai",
-          "github": "https://github.com/mrodriguez"
-        }
-      },
-      {
-        "name": "Nur Mohammad Fahad",
-        "title": "Research Coordinator",
-        "image": "./res/fahad.jpeg",
-        "shortDescription": "Nur Mohammad Fahad received a bachelor's degree from the Department of Computer Science and Engineering, United International University (UIU), Bangladesh. During the bachelor's study, he has contributed to the academic community as an Undergraduate Teaching Assistant with the Department of Computer Science and Engineering, UIU. In addition to his teaching role, he has deeply engaged in cutting-edge research across several domains, including computer vision, machine learning, deep learning, health informatics, graph theory, and mental health modeling.",
-        "interests": [
-          "computer vision",
-          "machine learning",
-          "deep learning",
-          "health informatics",
-          "graph theory",
-          "mental health modeling"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-         
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=chen-s",
-          "linkedin": "https://linkedin.com/in/sarah-chen-ai",
-          "twitter": "https://twitter.com/sarahchen_ai",
-          "github": "https://github.com/sarahchen"
-        }
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=rodriguez-m",
+        "linkedin": "https://linkedin.com/in/michael-rodriguez-ml",
+        "twitter": "https://twitter.com/mrodriguez_ai",
+        "github": "https://github.com/mrodriguez"
       }
-    ],
-    "graduate_research": [
-      {
-        "name": "Arefin Ittesafun Abian",
-        "title": "Graduate Researcher",
-        "image": "./res/abian.jpeg",
-        "shortDescription":"Arefin Ittesafun Abian is a Computer Science Engineer who has completed her graduation from United International University. She is currently working under the supervision of Dr. Sami Azam in the PRISML Lab. Her research encompasses computer vision, artificial intelligence, deep learning, and medical image analysis, and she has a year of experience in 3D image and video processing.",
-        "interests": [
+    },
+    {
+      "name": "Nur Mohammad Fahad",
+      "title": "Research Coordinator",
+      "image": "./res/fahad.jpeg",
+      "shortDescription": "Nur Mohammad Fahad received a bachelor's degree from the Department of Computer Science and Engineering, United International University (UIU), Bangladesh. During the bachelor's study, he has contributed to the academic community as an Undergraduate Teaching Assistant with the Department of Computer Science and Engineering, UIU. In addition to his teaching role, he has deeply engaged in cutting-edge research across several domains, including computer vision, machine learning, deep learning, health informatics, graph theory, and mental health modeling.",
+      "interests": [
+        "computer vision",
+        "machine learning",
+        "deep learning",
+        "health informatics",
+        "graph theory",
+        "mental health modeling"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=chen-s",
+        "linkedin": "https://linkedin.com/in/sarah-chen-ai",
+        "twitter": "https://twitter.com/sarahchen_ai",
+        "github": "https://github.com/sarahchen"
+      }
+    }
+  ],
+  "graduate_research": [
+    {
+      "name": "Arefin Ittesafun Abian",
+      "title": "Graduate Researcher",
+      "image": "./res/abian.jpeg",
+      "shortDescription": "Arefin Ittesafun Abian is a Computer Science Engineer who has completed her graduation from United International University. She is currently working under the supervision of Dr. Sami Azam in the PRISML Lab. Her research encompasses computer vision, artificial intelligence, deep learning, and medical image analysis, and she has a year of experience in 3D image and video processing.",
+      "interests": [
         "Computer vision",
         "Artificial intelligence",
         "Deep learning",
         "Medical image analysis"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=zhang-e",
-          "linkedin": "https://linkedin.com/in/emily-zhang-robotics",
-          "github": "https://github.com/emilyzhang"
-        }
-      },
-      {
-        "name": "Ripon Kumar Debnath",
-        "title": " Graduate Researcher",
-        "image": "./res/ripon.jpeg",
-        "shortDescription":"Ripon Kumar Debnath received his Bachelor's in Computer Science and Engineering from United International University (UIU) in 2024. He is actively involved in research activities, especially in computer vision, natural language processing, and biomedical engineering, explainable artificial intelligence, and graph optimization. Notably, he has made significant contributions to the field, as evidenced by his research articles published in scopus-indexed conferences.",
-        "interests": [
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=zhang-e",
+        "linkedin": "https://linkedin.com/in/emily-zhang-robotics",
+        "github": "https://github.com/emilyzhang"
+      }
+    },
+    {
+      "name": "Ripon Kumar Debnath",
+      "title": " Graduate Researcher",
+      "image": "./res/ripon.jpeg",
+      "shortDescription": "Ripon Kumar Debnath received his Bachelor's in Computer Science and Engineering from United International University (UIU) in 2024. He is actively involved in research activities, especially in computer vision, natural language processing, and biomedical engineering, explainable artificial intelligence, and graph optimization. Notably, he has made significant contributions to the field, as evidenced by his research articles published in scopus-indexed conferences.",
+      "interests": [
         "computer vision",
         "natural language processing",
         "biomedical engineering",
         "explainable artificial intelligence",
         "graph optimization"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Debopom Sutradhar",
-        "title": " Graduate Researcher",
-        "image": "./res/Debepom.jpg",
-        "shortDescription":"Debopom Sutradhar is enthusiastic and technologically savvy, with a strong interest in Machine Learning and Deep Learning. His research involves innovative applications of computer vision techniques. His recent projects include a cervical spine fracture detection system using YOLOv8 paired with a deep attention-based vertebrae classification method to ensure explainable AI. He also developed a lightweight encoder approach for predicting future changes in satellite imagery via semi-supervised learning. Debopom is currently working on CT scan denoising using reinforcement learning.",
-        "interests": [
-          "Machine Learning",
-          "Deep Learning",
-          "Computer Vision"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Abdur Rahman",
-        "title": " Graduate Researcher",
-        "image": "./res/AR.png",
-        "shortDescription":"Abdur Rahman received his Bachelor's degree in Computer Science and Engineering from United International University (UIU), Bangladesh in 2024. His research interests are primarily focused on computer vision, with a particular emphasis on multimodal medical image processing. Currently, he is working with the PRISML Lab at Charles Darwin University, Australia, under the supervision of Professor Dr. Sami Azam.",
-        "interests": [
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Debopom Sutradhar",
+      "title": " Graduate Researcher",
+      "image": "./res/Debopom.jpg",
+      "shortDescription": "Debopom Sutradhar is enthusiastic and technologically savvy, with a strong interest in Machine Learning and Deep Learning. His research involves innovative applications of computer vision techniques. His recent projects include a cervical spine fracture detection system using YOLOv8 paired with a deep attention-based vertebrae classification method to ensure explainable AI. He also developed a lightweight encoder approach for predicting future changes in satellite imagery via semi-supervised learning. Debopom is currently working on CT scan denoising using reinforcement learning.",
+      "interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Abdur Rahman",
+      "title": " Graduate Researcher",
+      "image": "./res/AR.png",
+      "shortDescription": "Abdur Rahman received his Bachelor's degree in Computer Science and Engineering from United International University (UIU), Bangladesh in 2024. His research interests are primarily focused on computer vision, with a particular emphasis on multimodal medical image processing. Currently, he is working with the PRISML Lab at Charles Darwin University, Australia, under the supervision of Professor Dr. Sami Azam.",
+      "interests": [
         "multimodal medical image processing"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Tamanna Shermin",
-        "title": " Graduate Researcher",
-        "image": "./res/Tamanna.jpg",
-        "shortDescription":"Tamanna Shermin received her Bachelor's degree in Computer Science, bringing a strong foundation in programming and a deep interest in machine learning. She is currently conducting research in computer vision under the supervision of Dr. Sami Azam. Her primary research interests include Human-Computer Interaction, Computer Vision, and Natural Language Processing, with a focus on projects that drive impactful, innovative solutions on a global scale.",
-        "interests": [
-          "Human-Computer Interaction",
-          "Computer Vision",
-          "Natural Language Processing"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Md Fahmi Kazi",
-        "title": " Graduate Researcher",
-        "image": "./res/FahmiKaziMd.png",
-        "shortDescription":"Md Fahmi Kazi works as a software developer at All Generation Tech (AGT) and is currently engaged in research with the PRISML Lab, focusing on a project related to Semantic Image Augmentation. His research interests span Bioinformatics, Image Processing, and Natural Language Processing (NLP).",
-        "interests": [
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Tamanna Shermin",
+      "title": " Graduate Researcher",
+      "image": "./res/Tamanna.jpg",
+      "shortDescription": "Tamanna Shermin received her Bachelor's degree in Computer Science, bringing a strong foundation in programming and a deep interest in machine learning. She is currently conducting research in computer vision under the supervision of Dr. Sami Azam. Her primary research interests include Human-Computer Interaction, Computer Vision, and Natural Language Processing, with a focus on projects that drive impactful, innovative solutions on a global scale.",
+      "interests": [
+        "Human-Computer Interaction",
+        "Computer Vision",
+        "Natural Language Processing"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Md Fahmi Kazi",
+      "title": " Graduate Researcher",
+      "image": "./res/FahmiKaziMd.png",
+      "shortDescription": "Md Fahmi Kazi works as a software developer at All Generation Tech (AGT) and is currently engaged in research with the PRISML Lab, focusing on a project related to Semantic Image Augmentation. His research interests span Bioinformatics, Image Processing, and Natural Language Processing (NLP).",
+      "interests": [
         "Bioinformatics",
         "Image Processing",
         "Natural Language Processing"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Eashrat Jahan",
-        "title": " Graduate Researcher",
-        "image": "./res/eashrat.jpg",
-        "shortDescription":"REashrat Jahan is currently a Lecturer in the Computer Science and Engineering Department at the Institute of Science, Trade and Technology. She is an active member of the PRISML Lab and is currently engaged in a project focused on Semantic Image Augmentation. Her research interests include Image Processing, Bioinformatics, and Human-Computer Interaction.",
-        "interests": [
-          "Image Processing",
-          "Bioinformatics",
-          "Human-Computer Interaction"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Shahil Yasar Haque",
-        "title": " Graduate Researcher",
-        "image": "./res/shahil.jpg",
-        "shortDescription":"Shahil Yasar Haque is currently an instructor at United International University (UIU). He is actively engaged in research, focusing on data augmentation techniques to expand the size and diversity of sparse image datasets. His research interests span large language models, diffusion models, natural language processing, and image processing.",
-        "interests": [
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Eashrat Jahan",
+      "title": " Graduate Researcher",
+      "image": "./res/eashrat.jpg",
+      "shortDescription": "REashrat Jahan is currently a Lecturer in the Computer Science and Engineering Department at the Institute of Science, Trade and Technology. She is an active member of the PRISML Lab and is currently engaged in a project focused on Semantic Image Augmentation. Her research interests include Image Processing, Bioinformatics, and Human-Computer Interaction.",
+      "interests": [
+        "Image Processing",
+        "Bioinformatics",
+        "Human-Computer Interaction"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Shahil Yasar Haque",
+      "title": " Graduate Researcher",
+      "image": "./res/shahil.jpg",
+      "shortDescription": "Shahil Yasar Haque is currently an instructor at United International University (UIU). He is actively engaged in research, focusing on data augmentation techniques to expand the size and diversity of sparse image datasets. His research interests span large language models, diffusion models, natural language processing, and image processing.",
+      "interests": [
         "data augmentation",
         "large language models",
         "diffusion models",
         "natural language processing",
         "image processing"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Md. Jakarea",
-        "title": " Graduate Researcher",
-        "image": "./res/AR.png",
-        "shortDescription": "Md. Jakarea, an Electrical and Electronic Engineering graduate from United International University, specializes in IoT and biomedical signal analysis. His final year project focused on an IoT-based emergency rescue system using life jackets. Jakarea has also worked as a researcher under Prof. Sami Azam from Charles Darwin University, contributing to the development of an integrative framework for myocardial infarction diagnosis using ECG signals, combining advanced signal analysis, feature extraction, and graph convolutional networks.",
-        "interests": [
-          "IoT",
-          "biomedical signal analysis"        ],
-        "education": [
-          "B.S. in EEE, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Most Marufatul Jannat Mim",
-        "title": " Graduate Researcher",
-        "image": "./res/mim.jpg",
-        "shortDescription":  "Most Marufatul Jannat Mim received her Bachelor of Science degree in Computer Science and Engineering from United International University (UIU) in 2024. She is actively involved in research activities related to computer vision, deep learning, medical image analysis, explainable artificial intelligence, and machine learning. Her passion lies in pioneering innovative research in computer science. Apart from her studies, she was involved in co-curricular activities with the UIU App Forum, where she served as President, demonstrating strong leadership by organizing various seminars and workshops for computer science students.",
-        "interests": [
-          "computer vision",
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Md. Jakarea",
+      "title": " Graduate Researcher",
+      "image": "./res/AR.png",
+      "shortDescription": "Md. Jakarea, an Electrical and Electronic Engineering graduate from United International University, specializes in IoT and biomedical signal analysis. His final year project focused on an IoT-based emergency rescue system using life jackets. Jakarea has also worked as a researcher under Prof. Sami Azam from Charles Darwin University, contributing to the development of an integrative framework for myocardial infarction diagnosis using ECG signals, combining advanced signal analysis, feature extraction, and graph convolutional networks.",
+      "interests": [
+        "IoT",
+        "biomedical signal analysis"
+      ],
+      "education": [
+        "B.S. in EEE, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Most Marufatul Jannat Mim",
+      "title": " Graduate Researcher",
+      "image": "./res/mim.jpg",
+      "shortDescription": "Most Marufatul Jannat Mim received her Bachelor of Science degree in Computer Science and Engineering from United International University (UIU) in 2024. She is actively involved in research activities related to computer vision, deep learning, medical image analysis, explainable artificial intelligence, and machine learning. Her passion lies in pioneering innovative research in computer science. Apart from her studies, she was involved in co-curricular activities with the UIU App Forum, where she served as President, demonstrating strong leadership by organizing various seminars and workshops for computer science students.",
+      "interests": [
+        "computer vision",
         "deep learning",
         "medical image analysis",
         "explainable artificial intelligence",
-        "machine learning"      ],
-        "education": [
-          "B.S. in EEE, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
+        "machine learning"
+      ],
+      "education": [
+        "B.S. in EEE, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
       }
-    ],
-    "undergraduate_research": [
-      {
-        "name": "Debopom Sutradhar",
-        "title": "Graduate Researcher",
-        "image": "./res/Debopom.jpg",
-        "shortDescription":"Debopom Sutradhar is enthusiastic and technologically savvy, with a strong interest in Machine Learning and Deep Learning. His research involves innovative applications of computer vision techniques. His recent projects include a cervical spine fracture detection system using YOLOv8 paired with a deep attention-based vertebrae classification method to ensure explainable AI. He also developed a lightweight encoder approach for predicting future changes in satellite imagery via semi-supervised learning. Debopom is currently working on CT scan denoising using reinforcement learning.",
-        "interests": [
+    }
+  ],
+  "undergraduate_research": [
+    {
+      "name": "Md Mahbub Alam",
+      "title": " Undergraduate Researcher",
+      "image": "./res/mahbub.jpg",
+      "shortDescription": "Md Mahbub Alam is a fourth-year Computer Science student at United International University (UIU) and a member of the PRISML Lab. He focuses on vision-based research, including image and video processing, text-to-image modeling, and 3D modeling, with a keen interest in medical imaging. Currently, he is involved in projects related to Parkinson's disease progression, LLM-based image segmentation, and 2D-to-3D reconstruction, actively contributing to advancements in these fields.",
+      "interests": [
+        "Computer Vision",
+        "text-to-image modeling",
+        "LLM",
+        "3D modeling",
+        "medical imaging"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Jubair Ahmed",
+      "title": " Undergraduate Researcher",
+      "image": "./res/jubair.jpg",
+      "shortDescription": "Jubair Ahmed is a third-year student at United International University, currently part of the PRISML Lab. His research focuses on advancing computer vision and medical image analysis, aiming to enhance healthcare accessibility through deep learning innovations. Additionally, he is exploring the potential of quantum computing to improve machine learning methods. His current projects include CRLM recurrence prediction using Graph Neural Networks (GNN), causal inference, uncertainty quantification, and 2D-to-3D image reconstruction.",
+      "interests": [
+        "computer vision",
+        "medical image analysis",
+        "quantum computing",
+        "machine learning"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Wasimul Karim",
+      "title": " Undergraduate Researcher",
+      "image": "./res/wasimul.jpg",
+      "shortDescription": "Md Mahbub Alam is a fourth-year Computer Science student at United International University (UIU) and a member of the PRISML Lab. He focuses on vision-based research, including image and video processing, text-to-image modeling, and 3D modeling, with a keen interest in medical imaging. Currently, he is involved in projects related to Parkinson's disease progression, LLM-based image segmentation, and 2D-to-3D reconstruction, actively contributing to advancements in these fields.",
+      "interests": [
+        "computer vision",
+        "deep learning",
+        "bioinformatics"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Sayeem Been Zaman",
+      "title": " Undergraduate Researcher",
+      "image": "./res/sayeem.jpg",
+      "shortDescription": "Sayeem Been Zaman is an undergraduate student in the CSE Department at United International University and also holds a position as an Undergraduate Teaching Assistant (UGA). His core research interests span computer vision, deep learning, signal processing, and bioinformatics. He actively contributes to research projects in partnership with Charles Darwin University, with a focus on advancing biomedical imaging. His work is dedicated to developing impactful solutions for practical challenges and fostering collaborative relationships with researchers globally.",
+      "interests": [
+        "computer vision",
+        "deep learning",
+        "signal processing",
+        "bioinformatics"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Md. Faiyaz Abdullah Sayeedi",
+      "title": " Undergraduate Researcher",
+      "image": "./res/Faiyaz.jpg",
+      "shortDescription": "Md. Faiyaz Abdullah Sayeedi is a Computer Science student at United International University (UIU), with a research focus on Computer Vision and Large Language Models. He has collaborated with PRISML Lab at Charles Darwin University on two Explainable AI projects and is currently working on LLM-Based Segmentation and Object Reasoning in images under the guidance of Dr. Sami Azam.",
+      "interests": [
+         "Computer Vision",
+        "Large Language Models"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Subhey Sadi Rahman",
+      "title": " Undergraduate Researcher",
+      "image": "./res/SubheySadi.jpg",
+      "shortDescription": "Subhey Sadi Rahman is an undergraduate student in Computer Science and Engineering at United International University (UIU), where he also serves as an Undergraduate Assistant. He is actively collaborating with researchers from Charles Darwin University on projects related to Parkinson's Disease. His research interests include Digital Image Processing, Large Language Models, and Data Mining.",
+      "interests": [
+        "Digital Image Processing",
+        "Large Language Models",
+        "Data Mining"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Md. Adnanul Islam",
+      "title": " Undergraduate Researcher",
+      "image": "./res/mahbub.jpg",
+      "shortDescription":"Md. Adnanul Islam is pursuing his Bachelor's in Computer Science at United International University (UIU), with a strong research focus on computer vision and large language models. He has collaborated with PRISML Lab at Charles Darwin University on two Explainable AI projects and is currently working under the guidance of Dr. Sami Azam on LLM-based segmentation and object reasoning in images.",
+      "interests": [
+      "Computer Vision",
+      "Large Language Models"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },
+    {
+      "name": "Shahinur Alam Bhuiyan",
+      "title": " Undergraduate Researcher",
+      "image": "./res/shahin.jpeg",
+      "shortDescription": "Shahinur Alam Bhuiyan is an undergraduate teaching assistant at United International University. He is currently engaged in research with the PRISML Lab, focusing on large language models and natural language processing.",
+      "interests": [
+        "Large Language Models",
+        "Natural Language Processing"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
+      }
+    },{
+      "name": "Amit Mahmud Sabbir",
+      "title": " Undergraduate Researcher",
+      "image": "./res/Sabbir.jpeg",
+      "shortDescription": "Amit Mahmud Sabbir is currently affiliated with the PRISML Lab, where he focuses on leveraging machine learning, natural language processing, and explainable artificial intelligence in biomedical image analysis.",
+      "interests": [
         "Machine Learning",
-        "Deep Learning",
-        "Computer Vision"
-        ],
-        "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-          
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=wilson-j",
-          "linkedin": "https://linkedin.com/in/james-wilson-cv",
-          "twitter": "https://twitter.com/jwilson_cv",
-          "github": "https://github.com/jameswilson"
-        }
-      },
-      {
-        "name": "Abdur Rahman",
-        "title": "Graduate Researcher",
-        "image": "./res/AR.png",
-        "shortDescription": "Abdur Rahman received his Bachelor's degree in Computer Science and Engineering from United International University (UIU), Bangladesh in 2024. His research interests are primarily focused on computer vision, with a particular emphasis on multimodal medical image processing. Currently, he is working with the PRISML Lab at Charles Darwin University, Australia, under the supervision of Professor Dr. Sami Azam.",
-        
-        "interests": [
-         "multimodal medical image processing"
-        ],
-       "education": [
-          "B.S. in Computer Science, United International University"
-        ],
-        "publications": [
-         
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=garcia-m",
-          "linkedin": "https://linkedin.com/in/maria-garcia-ai",
-          "twitter": "https://twitter.com/mgarcia_ai"
-        }
-      },
-      {
-        "name": "David Kim",
-        "title": "Ph.D. Student",
-        "image": "../resources/researchers/david-kim.jpg",
-        "interests": [
-          "Reinforcement Learning",
-          "Game AI",
-          "Multi-agent Systems",
-          "Decision Making"
-        ],
-        "education": [
-          "M.S. in Artificial Intelligence, University of Toronto",
-          "B.S. in Computer Science, Seoul National University"
-        ],
-        "publications": [
-          "Kim, D., Zhang, E. (2023). 'Multi-agent Reinforcement Learning', AAMAS 2023",
-          "Kim, D. et al. (2022). 'Game AI Developments', AAAI 2022"
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=kim-d",
-          "github": "https://github.com/davidkim",
-          "twitter": "https://twitter.com/kim_ai_research"
-        }
-      },
-      {
-        "name": "Rachel Thompson",
-        "title": "Ph.D. Student",
-        "image": "../resources/researchers/rachel-thompson.jpg",
-        "interests": [
-          "Natural Language Processing",
-          "Machine Translation",
-          "Low-resource Languages",
-          "Cross-lingual Transfer"
-        ],
-        "education": [
-          "M.S. in Computational Linguistics, University of Washington",
-          "B.A. in Linguistics, Brown University"
-        ],
-        "publications": [
-          "Thompson, R., Rodriguez, M. (2023). 'Low-resource Machine Translation', ACL 2023",
-          "Thompson, R. et al. (2022). 'Cross-lingual Transfer Learning', EMNLP 2022"
-        ],
-        "social": {
-          "google": "https://scholar.google.com/citations?user=thompson-r",
-          "linkedin": "https://linkedin.com/in/rachel-thompson-nlp",
-          "github": "https://github.com/rthompson"
-        }
+        "Natural Language Processing",
+        "Explainable Artificial Intelligence",
+        "Biomedical Image Analysis"
+      ],
+      "education": [
+        "B.S. in Computer Science, United International University"
+      ],
+      "publications": [],
+      "social": {
+        "google": "https://scholar.google.com/citations?user=wilson-j",
+        "linkedin": "https://linkedin.com/in/james-wilson-cv",
+        "twitter": "https://twitter.com/jwilson_cv",
+        "github": "https://github.com/jameswilson"
       }
-    ]
-  }
+    }
+  ]
+}
