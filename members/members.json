@@ -1,10 +1,10 @@
 {
     "directors": [
       {
-        "name": "Dr. Sarah Chen",
+        "name": "Dr. Sami Azam",
         "title": "Lab Director & Principal Investigator",
-        "image": "./res/abdur_rahman.jpg",
-        "shortDescription":"lordddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddd dddddddddddddddddd dddddddddasldfal;sdjkfl;kas;dl ;lakdsfl;kasdf;lk 'l;asdkf;lkfasddl;fk a;sldkfas;dlfk;l' ka as;dlk                         sakllllllllllllllllllllllllllllllllllllllll           aslkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   jjjjjjjjjjjjjjjjjjjjjjjjj fassdcfgsdfgiksdjlk sdlfjsdl;afjk;lk s;dlfksdl;fksdl;fk s'dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl;dl; as;dlfksdal; l;dkfasdl;kf ';alsdkfa;sdlkfasd;lfk al;sdkfas;dlfkasdl;k dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+        "image": "../res/sami.jpeg",
+        "shortDescription":"Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
         "interests": [
           "Deep Learning",
           "Computer Vision",
@@ -31,8 +31,9 @@
       },
       {
         "name": "Dr. Michael Rodriguez",
-        "title": "Co-Director & Senior Research Scientist",
-        "image": "../resources/researchers/michael-rodriguez.jpg",
+        "title": "Associate Director",
+        "image": "../res/raiaan.jpeg",
+        "shortDescription": "Mohaimenul Azam Khan Raiaan is a computer science engineer working remotely as a Consultant-Research Assistant, affiliated with Charles Darwin University, Australia. His research primarily focuses on Medical Image Analysis, Computer Vision, Explainable Artificial Intelligence, and Deep Learning.",
         "interests": [
           "Natural Language Processing",
           "Machine Learning Systems",
