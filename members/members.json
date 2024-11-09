@@ -123,6 +123,54 @@
           "twitter": "https://twitter.com/jwilson_cv",
           "github": "https://github.com/jameswilson"
         }
+      },{
+        "name": "Ripon Kumar Debnath",
+        "title": " Graduate Researcher",
+        "image": "./res/ripon.jpeg",
+        "shortDescription":"Ripon Kumar Debnath received his Bachelor's in Computer Science and Engineering from United International University (UIU) in 2024. He is actively involved in research activities, especially in computer vision, natural language processing, and biomedical engineering, explainable artificial intelligence, and graph optimization. Notably, he has made significant contributions to the field, as evidenced by his research articles published in scopus-indexed conferences.",
+        "interests": [
+        "computer vision",
+        "natural language processing",
+        "biomedical engineering",
+        "explainable artificial intelligence",
+        "graph optimization"
+        ],
+        "education": [
+          "B.S. in Computer Science, United International University"
+        ],
+        "publications": [
+          
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=wilson-j",
+          "linkedin": "https://linkedin.com/in/james-wilson-cv",
+          "twitter": "https://twitter.com/jwilson_cv",
+          "github": "https://github.com/jameswilson"
+        }
+      },{
+        "name": "Ripon Kumar Debnath",
+        "title": " Graduate Researcher",
+        "image": "./res/ripon.jpeg",
+        "shortDescription":"Ripon Kumar Debnath received his Bachelor's in Computer Science and Engineering from United International University (UIU) in 2024. He is actively involved in research activities, especially in computer vision, natural language processing, and biomedical engineering, explainable artificial intelligence, and graph optimization. Notably, he has made significant contributions to the field, as evidenced by his research articles published in scopus-indexed conferences.",
+        "interests": [
+        "computer vision",
+        "natural language processing",
+        "biomedical engineering",
+        "explainable artificial intelligence",
+        "graph optimization"
+        ],
+        "education": [
+          "B.S. in Computer Science, United International University"
+        ],
+        "publications": [
+          
+        ],
+        "social": {
+          "google": "https://scholar.google.com/citations?user=wilson-j",
+          "linkedin": "https://linkedin.com/in/james-wilson-cv",
+          "twitter": "https://twitter.com/jwilson_cv",
+          "github": "https://github.com/jameswilson"
+        }
       }
     ],
     "undergraduate_research": [
