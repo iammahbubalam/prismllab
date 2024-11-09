@@ -52,7 +52,7 @@
         "name": "Nur Mohammad Fahad",
         "title": "Research Coordinator",
         "image": "./res/fahad.jpeg",
-        "shortDescription":"Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
+        "shortDescription": "Nur Mohammad Fahad received a bachelor's degree from the Department of Computer Science and Engineering, United International University (UIU), Bangladesh. During the bachelor's study, he has contributed to the academic community as an Undergraduate Teaching Assistant with the Department of Computer Science and Engineering, UIU. In addition to his teaching role, he has deeply engaged in cutting-edge research across several domains, including computer vision, machine learning, deep learning, health informatics, graph theory, and mental health modeling.",
         "interests": [
           "computer vision",
           "machine learning",
@@ -77,24 +77,21 @@
     ],
     "graduate_research": [
       {
-        "name": "Nur Mohammad Fahad",
-        "title": "Senior Research Scientist",
-        "image": "../resources/researchers/emily-zhang.jpg",
+        "name": "Arefin Ittesafun Abian",
+        "title": "Graduate Researcher",
+        "image": "./res/abian.jpeg",
+        "shortDescription":"Arefin Ittesafun Abian is a Computer Science Engineer who has completed her graduation from United International University. She is currently working under the supervision of Dr. Sami Azam in the PRISML Lab. Her research encompasses computer vision, artificial intelligence, deep learning, and medical image analysis, and she has a year of experience in 3D image and video processing.",
         "interests": [
-          "Reinforcement Learning",
-          "Robotics",
-          "Human-AI Interaction",
-          "AI Safety"
+        "Computer vision",
+        "Artificial intelligence",
+        "Deep learning",
+        "Medical image analysis"
         ],
         "education": [
-          "Ph.D. in Robotics, University of Michigan",
-          "M.S. in Mechanical Engineering, ETH Zurich",
-          "B.S. in Computer Science, Tsinghua University"
+          "B.S. in Computer Science, United International University"
         ],
         "publications": [
-          "Zhang, E. et al. (2023). 'Safe Reinforcement Learning for Robotics', ICRA 2023",
-          "Zhang, E., Chen, S. (2022). 'Human-in-the-Loop Reinforcement Learning', CoRL 2022",
-          "Zhang, E. et al. (2021). 'Adaptive Robot Control Systems', RSS 2021"
+          
         ],
         "social": {
           "google": "https://scholar.google.com/citations?user=zhang-e",
@@ -103,24 +100,22 @@
         }
       },
       {
-        "name": "Dr. James Wilson",
-        "title": "Research Scientist",
-        "image": "../resources/researchers/james-wilson.jpg",
+        "name": "Ripon Kumar Debnath",
+        "title": " Graduate Researcher",
+        "image": "./res/ripon.jpeg",
+        "shortDescription":"Ripon Kumar Debnath received his Bachelor's in Computer Science and Engineering from United International University (UIU) in 2024. He is actively involved in research activities, especially in computer vision, natural language processing, and biomedical engineering, explainable artificial intelligence, and graph optimization. Notably, he has made significant contributions to the field, as evidenced by his research articles published in scopus-indexed conferences.",
         "interests": [
-          "Computer Vision",
-          "3D Scene Understanding",
-          "Visual SLAM",
-          "Autonomous Navigation"
+        "computer vision",
+        "natural language processing",
+        "biomedical engineering",
+        "explainable artificial intelligence",
+        "graph optimization"
         ],
         "education": [
-          "Ph.D. in Computer Vision, Oxford University",
-          "M.S. in Computer Science, Imperial College London",
-          "B.S. in Electronics, University of Edinburgh"
+          "B.S. in Computer Science, United International University"
         ],
         "publications": [
-          "Wilson, J. et al. (2023). 'Real-time 3D Scene Understanding', ECCV 2023",
-          "Wilson, J., Zhang, E. (2022). 'Visual SLAM for Autonomous Systems', ICCV 2022",
-          "Wilson, J. et al. (2021). 'Deep Learning for 3D Reconstruction', 3DV 2021"
+          
         ],
         "social": {
           "google": "https://scholar.google.com/citations?user=wilson-j",
@@ -132,46 +127,42 @@
     ],
     "undergraduate_research": [
       {
-        "name": "Alex Kumar",
-        "title": "Ph.D. Candidate",
-        "image": "../resources/researchers/alex-kumar.jpg",
+        "name": "Debopom Sutradhar",
+        "title": "Graduate Researcher",
+        "image": "./res/Debopom.jpg",
+        "shortDescription":"Debopom Sutradhar is enthusiastic and technologically savvy, with a strong interest in Machine Learning and Deep Learning. His research involves innovative applications of computer vision techniques. His recent projects include a cervical spine fracture detection system using YOLOv8 paired with a deep attention-based vertebrae classification method to ensure explainable AI. He also developed a lightweight encoder approach for predicting future changes in satellite imagery via semi-supervised learning. Debopom is currently working on CT scan denoising using reinforcement learning.",
         "interests": [
-          "Machine Learning",
-          "Natural Language Processing",
-          "Few-shot Learning",
-          "Meta Learning"
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision"
         ],
         "education": [
-          "M.S. in Computer Science, UCLA",
-          "B.S. in Computer Science, IIT Bombay"
+          "B.S. in Computer Science, United International University"
         ],
         "publications": [
-          "Kumar, A., Rodriguez, M. (2023). 'Few-shot Learning for NLP Tasks', ACL 2023",
-          "Kumar, A. et al. (2022). 'Meta-learning Applications in NLP', EMNLP 2022"
+          
         ],
         "social": {
-          "google": "https://scholar.google.com/citations?user=kumar-a",
-          "linkedin": "https://linkedin.com/in/alex-kumar",
-          "github": "https://github.com/alexkumar"
+          "google": "https://scholar.google.com/citations?user=wilson-j",
+          "linkedin": "https://linkedin.com/in/james-wilson-cv",
+          "twitter": "https://twitter.com/jwilson_cv",
+          "github": "https://github.com/jameswilson"
         }
       },
       {
-        "name": "Maria Garcia",
-        "title": "Ph.D. Candidate",
-        "image": "../resources/researchers/maria-garcia.jpg",
+        "name": "Abdur Rahman",
+        "title": "Graduate Researcher",
+        "image": "./res/AR.png",
+        "shortDescription": "Abdur Rahman received his Bachelor's degree in Computer Science and Engineering from United International University (UIU), Bangladesh in 2024. His research interests are primarily focused on computer vision, with a particular emphasis on multimodal medical image processing. Currently, he is working with the PRISML Lab at Charles Darwin University, Australia, under the supervision of Professor Dr. Sami Azam.",
+        
         "interests": [
-          "Computer Vision",
-          "Medical Image Analysis",
-          "Deep Learning",
-          "Healthcare AI"
+         "multimodal medical image processing"
         ],
-        "education": [
-          "M.S. in Biomedical Engineering, Johns Hopkins University",
-          "B.S. in Computer Science, University of Madrid"
+       "education": [
+          "B.S. in Computer Science, United International University"
         ],
         "publications": [
-          "Garcia, M., Chen, S. (2023). 'Deep Learning for Medical Imaging', MICCAI 2023",
-          "Garcia, M. et al. (2022). 'AI in Healthcare Applications', Nature Medicine"
+         
         ],
         "social": {
           "google": "https://scholar.google.com/citations?user=garcia-m",
