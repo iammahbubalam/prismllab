@@ -32,7 +32,7 @@
       {
         "name": "Mohaimenul Azam Khan Raiaan",
         "title": "Associate Director",
-        "image": "../res/raiaan.jpeg",
+        "image": "./res/raiaan.jpeg",
         "shortDescription": "Mohaimenul Azam Khan Raiaan is a computer science engineer working remotely as a Consultant-Research Assistant, affiliated with Charles Darwin University, Australia. His research primarily focuses on Medical Image Analysis, Computer Vision, Explainable Artificial Intelligence, and Deep Learning.",
         "interests": [
           "Natural Language Processing",
@@ -60,7 +60,7 @@
       {
         "name": "Nur Mohammad Fahad",
         "title": "Research Coordinator",
-        "image": "../res/fahad.jpeg",
+        "image": "./res/fahad.jpeg",
         "shortDescription":"Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
         "interests": [
           "Deep Learning",
