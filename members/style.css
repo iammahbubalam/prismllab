@@ -8,16 +8,16 @@
 }
 
 .researchers-hero {
-  padding: 60px 0;
+  padding: 0px 0;
   text-align: center;
   color: #000000;
-  margin-bottom: 40px;
+  margin-bottom: 5px;
 }
 
 .researchers-hero h1 {
   color: #000080;
   font-size: 48px;
-  margin-bottom: 16px;
+  margin-bottom: 0px;
   animation: fadeInDown 0.8s ease-out;
 }
 
@@ -28,12 +28,12 @@
 }
 
 .researchers-section {
-  padding: 40px 0;
+  padding: 30px 0;
 }
 
 .researchers-section h2 {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   font-size: 36px;
   color: #000000;
 }
