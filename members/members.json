@@ -3,7 +3,7 @@
     {
       "name": "Dr. Sami Azam",
       "title": "Lab Director & Principal Investigator",
-      "image": "./res/sami.jpeg",
+      "image": "./res/sami.jpg",
       "shortDescription": "Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
       "interests": [
         "Computer Vision",
@@ -26,7 +26,7 @@
     {
       "name": "Mohaimenul Azam Khan Raiaan",
       "title": "Associate Director",
-      "image": "./res/raiaan.jpeg",
+      "image": "./res/raiyaan.jpg",
       "shortDescription": "Mohaimenul Azam Khan Raiaan is a computer science engineer working remotely as a Consultant-Research Assistant, affiliated with Charles Darwin University, Australia. His research primarily focuses on Medical Image Analysis, Computer Vision, Explainable Artificial Intelligence, and Deep Learning.",
       "interests": [
         "Medical Image Analysis",
@@ -142,7 +142,7 @@
     {
       "name": "Abdur Rahman",
       "title": " Graduate Researcher",
-      "image": "./res/AR.png",
+      "image": "./res/AR.jpg",
       "shortDescription": "Abdur Rahman received his Bachelor's degree in Computer Science and Engineering from United International University (UIU), Bangladesh in 2024. His research interests are primarily focused on computer vision, with a particular emphasis on multimodal medical image processing. Currently, he is working with the PRISML Lab at Charles Darwin University, Australia, under the supervision of Professor Dr. Sami Azam.",
       "interests": [
         "Multimodal Medical Image Processing"
