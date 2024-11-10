@@ -1,42 +1,18 @@
 [
-    {
-      "title": "Explainable AI: Unraveling the Mysteries of Deep Learning",
-      "doi": "https://doi.org/10.1111/exsy.12345",
-      "journal": "Journal of Artificial Intelligence",
-      "abstract": "This paper presents a novel approach to making deep learning models more interpretable and explainable. This paper presents a novel approach to making deep learning models more interpretable and explainable. This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable.This paper presents a novel approach to making deep learning models more interpretable and explainable. We introduce a technique that allows users to understand the reasoning behind a model's predictions, enabling greater trust and transparency in AI systems.",
-      "link": "https://example.com/paper1",
-      "thumbnail": "./res/thumbnail.jpg"
-    },
-    {
-      "title": "Generative Adversarial Networks for Image Synthesis",
-      "doi": "https://doi.org/10.1109/CVPR.2016.90",
-      "journal": "IEEE Conference on Computer Vision and Pattern Recognition",
-      "abstract": "Generative Adversarial Networks (GANs) have revolutionized the field of image synthesis, allowing for the generation of high-quality, realistic images. In this work, we propose improvements to the GAN architecture that result in more stable training and higher-fidelity outputs.",
-      "link": "https://example.com/paper2",
-      "thumbnail": "paper2-thumbnail.jpg"
-    },
-    {
-      "title": "Natural Language Processing for Sentiment Analysis",
-      "doi": "https://doi.org/10.1162/tacl_a_00051",
-      "journal": "Transactions of the Association for Computational Linguistics",
-      "abstract": "Sentiment analysis is an important task in natural language processing, with applications in areas such as customer service, social media monitoring, and product reviews. We present a new deep learning-based approach that outperforms existing methods in accuracy and efficiency.",
-      "link": "https://example.com/paper3",
-      "thumbnail": "paper3-thumbnail.jpg"
-    },
-    {
-      "title": "Reinforcement Learning for Autonomous Navigation",
-      "doi": "https://doi.org/10.1109/ICRA.2020.9196885",
-      "journal": "IEEE International Conference on Robotics and Automation",
-      "abstract": "Autonomous navigation is a key capability for mobile robots and self-driving vehicles. In this work, we develop a reinforcement learning-based approach that allows robots to learn how to navigate complex environments, adapting to changes and unexpected obstacles.",
-      "link": "https://example.com/paper4",
-      "thumbnail": "paper4-thumbnail.jpg"
-    },
-    {
-      "title": "Computer Vision for Medical Image Analysis",
-      "doi": "https://doi.org/10.1109/TMI.2019.2932525",
-      "journal": "IEEE Transactions on Medical Imaging",
-      "abstract": "The application of computer vision techniques to medical imaging has the potential to revolutionize disease diagnosis and treatment. We present a deep learning-based system that can accurately detect and classify various medical conditions from X-ray, CT, and MRI scans.",
-      "link": "https://example.com/paper5",
-      "thumbnail": "paper5-thumbnail.jpg"
-    }
-  ]
+  {
+    "title": "AlzheimerNet: An Effective Deep Learning Based Proposition for Alzheimer’s Disease Stages Classification From Functional Brain Changes in Magnetic Resonance Images",
+    "doi": "10.1109/ACCESS.2023.3244952",
+    "journal": "IEEE Access",
+    "abstract": "Alzheimer’s disease is largely the underlying cause of dementia due to its progressive neurodegenerative nature among the elderly. The disease can be divided into five stages: Subjective Memory Concern (SMC), Mild Cognitive Impairment (MCI), Early MCI (EMCI), Late MCI (LMCI), and Alzheimer’s Disease (AD). Alzheimer’s disease is conventionally diagnosed using an MRI scan of the brain. In this research, we propose a fine-tuned convolutional neural network (CNN) classifier called AlzheimerNet, which can identify all five stages of Alzheimer’s disease and the Normal Control (NC) class. The ADNI database’s MRI scan dataset is obtained for use in training and testing the proposed model.",
+    "link": "https://ieeexplore.ieee.org/document/10043854",
+    "thumbnail": "./res/AlzheimerNet.png"
+  },
+  {
+    "title": "A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",
+    "doi": "10.1109/ACCESS.2024.3365742",
+    "journal": "IEEE Access",
+    "abstract": "Large Language Models (LLMs) recently demonstrated extraordinary capability in various natural language processing (NLP) tasks including language translation, text generation, question answering, etc. Moreover, LLMs are new and essential part of computerized language processing, having the ability to understand complex verbal patterns and generate coherent and appropriate replies in a given context. Though this success of LLMs has prompted a substantial increase in research contributions, rapid growth has made it difficult to understand the overall impact of these improvements.",
+    "link": "https://ieeexplore.ieee.org/document/1043348",
+    "thumbnail": "./res/AReviewonLargeLanguageModels.jpg"
+  }
+]

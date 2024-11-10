@@ -10,7 +10,7 @@ fetch('research-area.json')
       
       card.innerHTML = `
         <div class="research-card-image">
-          <img src="../resources/research/${area.image}" alt="${area.title}">
+          <img src="${area.image}" alt="${area.title}">
         </div>
         <div class="research-card-content">
           <h3>${area.title}</h3>

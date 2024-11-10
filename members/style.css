@@ -15,6 +15,7 @@
 }
 
 .researchers-hero h1 {
+  color: #000080;
   font-size: 48px;
   margin-bottom: 16px;
   animation: fadeInDown 0.8s ease-out;

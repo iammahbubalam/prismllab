@@ -9,7 +9,7 @@
           "Visual SLAM",
           "3D Vision"
         ],
-        "icon": "vision-icon.svg"
+        "image": "./res/compuert_vision.jpg"
       },
       {
         "title": "Explainable AI",
@@ -20,7 +20,7 @@
           "Transparent ML Systems",
           "AI Ethics"
         ],
-        "icon": "xai-icon.svg"
+        "image": "./res/xai.jpg"
       },
       {
         "title": "Natural Language Processing",
@@ -31,7 +31,7 @@
           "Dialogue Systems",
           "Sentiment Analysis"
         ],
-        "icon": "nlp-icon.svg"
+        "image": "./res/nlp.jpg"
       },
       {
         "title": "Reinforcement Learning",
@@ -42,19 +42,9 @@
           "Policy Optimization",
           "Robot Learning"
         ],
-        "icon": "rl-icon.svg"
+        "image": "./res/RL.jpg"
       },
-      {
-        "title": "Machine Learning Systems",
-        "description": "Building efficient and scalable systems for deploying ML models in production. Our research covers model optimization, distributed training, and edge computing solutions.",
-        "key_topics": [
-          "Distributed Training",
-          "Model Optimization",
-          "Edge AI",
-          "ML Infrastructure"
-        ],
-        "icon": "ml-icon.svg"
-      },
+      
       {
         "title": "Applied AI",
         "description": "Translating theoretical advances into practical solutions for real-world problems. We collaborate with industry partners to develop AI solutions for healthcare, robotics, and smart cities.",
@@ -64,18 +54,19 @@
           "Smart Cities",
           "Robotics"
         ],
-        "icon": "applied-icon.svg"
+        "image": "./res/AI.jpg"
       },
       {
-        "title": "Applied AI",
-        "description": "Translating theoretical advances into practical solutions for real-world problems. We collaborate with industry partners to develop AI solutions for healthcare, robotics, and smart cities.",
+        "title": "Multi Modal Learning",
+        "description": "Advancing AI systems that can seamlessly integrate and learn from multiple types of data inputs such as text, images, audio, and video. Our research focuses on developing models that can understand and process information across different modalities, leading to more robust and human-like AI systems.",
         "key_topics": [
-          "Healthcare AI",
-          "Industrial Automation",
-          "Smart Cities",
-          "Robotics"
+          "Vision-Language Models",
+          "Audio-Visual Processing",
+          "Cross-Modal Fusion",
+          "Multi-Sensor Integration",
+          "Multi-Modal Transformers"
         ],
-        "icon": "applied-icon.svg"
+        "image": "./res/multi.jpg"
       }
     ]
   }

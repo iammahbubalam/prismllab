@@ -6,10 +6,10 @@
       "image": "./res/sami.jpeg",
       "shortDescription": "Sami Azam is currently a Leading Researcher and Professor with the Faculty of Science and Technology at Charles Darwin University, Casuarina, NT, Australia. He is actively involved in research in computer vision, signal processing, artificial intelligence, and biomedical engineering. He has published several works in peer-reviewed journals and international conference proceedings.",
       "interests": [
-        "computer vision",
-        "signal processing",
-        "artificial intelligence",
-        "biomedical engineering"
+        "Computer Vision",
+        "Signal Processing",
+        "Artificial Intelligence",
+        "Biomedical Engineering"
       ],
       "education": [],
       "publications": [],
@@ -19,7 +19,10 @@
         "twitter": "https://twitter.com/sarahchen_ai",
         "github": "https://github.com/sarahchen"
       }
-    },
+    }
+    
+  ],
+  "associate_director":[
     {
       "name": "Mohaimenul Azam Khan Raiaan",
       "title": "Associate Director",
@@ -41,19 +44,22 @@
         "twitter": "https://twitter.com/mrodriguez_ai",
         "github": "https://github.com/mrodriguez"
       }
-    },
+    }
+
+  ],
+  "coordinators":[
     {
       "name": "Nur Mohammad Fahad",
       "title": "Research Coordinator",
       "image": "./res/fahad.jpeg",
       "shortDescription": "Nur Mohammad Fahad received a bachelor's degree from the Department of Computer Science and Engineering, United International University (UIU), Bangladesh. During the bachelor's study, he has contributed to the academic community as an Undergraduate Teaching Assistant with the Department of Computer Science and Engineering, UIU. In addition to his teaching role, he has deeply engaged in cutting-edge research across several domains, including computer vision, machine learning, deep learning, health informatics, graph theory, and mental health modeling.",
       "interests": [
-        "computer vision",
-        "machine learning",
-        "deep learning",
-        "health informatics",
-        "graph theory",
-        "mental health modeling"
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "Health Informatics",
+        "Graph Theory",
+        "Mental Health Modeling"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -74,10 +80,10 @@
       "image": "./res/abian.jpeg",
       "shortDescription": "Arefin Ittesafun Abian is a Computer Science Engineer who has completed her graduation from United International University. She is currently working under the supervision of Dr. Sami Azam in the PRISML Lab. Her research encompasses computer vision, artificial intelligence, deep learning, and medical image analysis, and she has a year of experience in 3D image and video processing.",
       "interests": [
-        "Computer vision",
-        "Artificial intelligence",
-        "Deep learning",
-        "Medical image analysis"
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Medical Image Analysis"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -95,11 +101,11 @@
       "image": "./res/ripon.jpeg",
       "shortDescription": "Ripon Kumar Debnath received his Bachelor's in Computer Science and Engineering from United International University (UIU) in 2024. He is actively involved in research activities, especially in computer vision, natural language processing, and biomedical engineering, explainable artificial intelligence, and graph optimization. Notably, he has made significant contributions to the field, as evidenced by his research articles published in scopus-indexed conferences.",
       "interests": [
-        "computer vision",
-        "natural language processing",
-        "biomedical engineering",
-        "explainable artificial intelligence",
-        "graph optimization"
+        "Computer Vision",
+        "Natural Language Processing",
+        "Biomedical Engineering",
+        "Explainable Artificial Intelligence",
+        "Graph Optimization"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -139,7 +145,7 @@
       "image": "./res/AR.png",
       "shortDescription": "Abdur Rahman received his Bachelor's degree in Computer Science and Engineering from United International University (UIU), Bangladesh in 2024. His research interests are primarily focused on computer vision, with a particular emphasis on multimodal medical image processing. Currently, he is working with the PRISML Lab at Charles Darwin University, Australia, under the supervision of Professor Dr. Sami Azam.",
       "interests": [
-        "multimodal medical image processing"
+        "Multimodal Medical Image Processing"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -221,11 +227,11 @@
       "image": "./res/shahil.jpg",
       "shortDescription": "Shahil Yasar Haque is currently an instructor at United International University (UIU). He is actively engaged in research, focusing on data augmentation techniques to expand the size and diversity of sparse image datasets. His research interests span large language models, diffusion models, natural language processing, and image processing.",
       "interests": [
-        "data augmentation",
-        "large language models",
-        "diffusion models",
-        "natural language processing",
-        "image processing"
+        "Data Augmentation",
+        "Large Language Models",
+        "Diffusion Models",
+        "Natural Language Processing",
+        "Image Processing"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -245,7 +251,7 @@
       "shortDescription": "Md. Jakarea, an Electrical and Electronic Engineering graduate from United International University, specializes in IoT and biomedical signal analysis. His final year project focused on an IoT-based emergency rescue system using life jackets. Jakarea has also worked as a researcher under Prof. Sami Azam from Charles Darwin University, contributing to the development of an integrative framework for myocardial infarction diagnosis using ECG signals, combining advanced signal analysis, feature extraction, and graph convolutional networks.",
       "interests": [
         "IoT",
-        "biomedical signal analysis"
+        "Biomedical Signal Analysis"
       ],
       "education": [
         "B.S. in EEE, United International University"
@@ -264,11 +270,11 @@
       "image": "./res/mim.jpg",
       "shortDescription": "Most Marufatul Jannat Mim received her Bachelor of Science degree in Computer Science and Engineering from United International University (UIU) in 2024. She is actively involved in research activities related to computer vision, deep learning, medical image analysis, explainable artificial intelligence, and machine learning. Her passion lies in pioneering innovative research in computer science. Apart from her studies, she was involved in co-curricular activities with the UIU App Forum, where she served as President, demonstrating strong leadership by organizing various seminars and workshops for computer science students.",
       "interests": [
-        "computer vision",
-        "deep learning",
-        "medical image analysis",
-        "explainable artificial intelligence",
-        "machine learning"
+        "Computer Vision",
+        "Deep Learning",
+        "Medical Image Analysis",
+        "Explainable Artificial Intelligence",
+        "Machine Learning"
       ],
       "education": [
         "B.S. in EEE, United International University"
@@ -290,10 +296,10 @@
       "shortDescription": "Md Mahbub Alam is a fourth-year Computer Science student at United International University (UIU) and a member of the PRISML Lab. He focuses on vision-based research, including image and video processing, text-to-image modeling, and 3D modeling, with a keen interest in medical imaging. Currently, he is involved in projects related to Parkinson's disease progression, LLM-based image segmentation, and 2D-to-3D reconstruction, actively contributing to advancements in these fields.",
       "interests": [
         "Computer Vision",
-        "text-to-image modeling",
+        "Text-to-Image Modeling",
         "LLM",
-        "3D modeling",
-        "medical imaging"
+        "3D Modeling",
+        "Medical Imaging"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -312,10 +318,10 @@
       "image": "./res/jubair.jpg",
       "shortDescription": "Jubair Ahmed is a third-year student at United International University, currently part of the PRISML Lab. His research focuses on advancing computer vision and medical image analysis, aiming to enhance healthcare accessibility through deep learning innovations. Additionally, he is exploring the potential of quantum computing to improve machine learning methods. His current projects include CRLM recurrence prediction using Graph Neural Networks (GNN), causal inference, uncertainty quantification, and 2D-to-3D image reconstruction.",
       "interests": [
-        "computer vision",
-        "medical image analysis",
-        "quantum computing",
-        "machine learning"
+        "Computer Vision",
+        "Medical Image Analysis",
+        "Quantum Computing",
+        "Machine Learning"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -334,9 +340,9 @@
       "image": "./res/wasimul.jpg",
       "shortDescription": "Md Mahbub Alam is a fourth-year Computer Science student at United International University (UIU) and a member of the PRISML Lab. He focuses on vision-based research, including image and video processing, text-to-image modeling, and 3D modeling, with a keen interest in medical imaging. Currently, he is involved in projects related to Parkinson's disease progression, LLM-based image segmentation, and 2D-to-3D reconstruction, actively contributing to advancements in these fields.",
       "interests": [
-        "computer vision",
-        "deep learning",
-        "bioinformatics"
+        "Computer Vision",
+        "Deep Learning",
+        "Bioinformatics"
       ],
       "education": [
         "B.S. in Computer Science, United International University"
@@ -355,10 +361,10 @@
       "image": "./res/sayeem.JPG",
       "shortDescription": "Sayeem Been Zaman is an undergraduate student in the CSE Department at United International University and also holds a position as an Undergraduate Teaching Assistant (UGA). His core research interests span computer vision, deep learning, signal processing, and bioinformatics. He actively contributes to research projects in partnership with Charles Darwin University, with a focus on advancing biomedical imaging. His work is dedicated to developing impactful solutions for practical challenges and fostering collaborative relationships with researchers globally.",
       "interests": [
-        "computer vision",
-        "deep learning",
-        "signal processing",
-        "bioinformatics"
+        "Computer Vision",
+        "Deep Learning",
+        "Signal Processing",
+        "Bioinformatics"
       ],
       "education": [
         "B.S. in Computer Science, United International University"

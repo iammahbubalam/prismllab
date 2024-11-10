@@ -60,7 +60,7 @@ body {
 }
 
 .main-nav a, .footer-nav a {
-  color: #000000;
+  color: #000080;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -94,7 +94,7 @@ body {
   display: block;
   background-color: transparent;
   border: none;
-  color: #000000;
+  color: #000080;
   font-size: 24px;
   cursor: pointer;
 }
@@ -205,39 +205,78 @@ body {
   transform: translateY(-3px);
 }
 
-/* News Article Styles */
+/* News Section Styles */
+.recent-news {
+  padding: 60px 0;
+}
+
+.news-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 .news-article {
   background-color: var(--color-quaternary);
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  margin-bottom: 24px;
   opacity: 0;
   animation: fadeInUp 0.8s ease-out forwards;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  align-items: center;
+  padding: 16px 24px;
 }
 
 .news-article:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
+
+.news-article .date {
+  min-width: 100px;
+  font-size: 14px;
+  color: #666;
+  margin-right: 24px;
 }
 
 .news-article .content {
-  padding: 24px;
+  flex: 1;
+  padding: 0;
 }
 
 .news-article h3 {
   font-size: 18px;
   font-weight: bold;
-  margin-bottom: 12px;
+  margin: 0 0 8px 0;
 }
 
 .news-article p {
   font-size: 14px;
   color: #666;
-  margin-bottom: 16px;
+  margin: 0;
 }
 
+/* Stagger Animations */
+.news-article:nth-child(1) { animation-delay: 0.2s; }
+.news-article:nth-child(2) { animation-delay: 0.4s; }
+.news-article:nth-child(3) { animation-delay: 0.6s; }
+.news-article:nth-child(4) { animation-delay: 0.8s; }
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .news-article {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .news-article .date {
+    margin-bottom: 8px;
+  }
+}
 /* Footer */
 .footer {
   background-color: var(--color-primary);
@@ -256,6 +295,7 @@ body {
 .footer-info {
   flex: 1;
 }
+
 
 /* Social Icons */
 .social-icons {

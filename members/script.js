@@ -55,6 +55,8 @@ async function fetchResearchers() {
     
     // Render each category
     renderResearcherCategory('directors', researchers.directors);
+    renderResearcherCategory('associate_director', researchers.associate_director);
+    renderResearcherCategory('coordinators', researchers.coordinators);
     renderResearcherCategory('graduate_researchers', researchers.graduate_research);
     renderResearcherCategory('undergraduate_researchers', researchers.undergraduate_research);
   } catch (error) {
@@ -66,11 +68,11 @@ async function fetchResearchers() {
   }
 }
 
-
+// onclick="openModal(${JSON.stringify(researcher).replace(/"/g, '&quot;')})" 
 function renderResearcherCategory(category, researchers) {
     const grid = document.getElementById(`${category}-grid`);
     grid.innerHTML = researchers.map((researcher, index) => `
-      <div class="researcher-card" onclick="openModal(${JSON.stringify(researcher).replace(/"/g, '&quot;')})" 
+      <div class="researcher-card" 
            style="animation-delay: ${index * 0.1}s">
         <div class="researcher-info">
           <div class="researcher-image-container">
@@ -87,6 +89,8 @@ function renderResearcherCategory(category, researchers) {
           <h3 class="researcher-name">${researcher.name}</h3>
           <p class="researcher-title">${researcher.title}</p>
           <p class="researcher-description">${researcher.shortDescription || 'No description available.'}</p>
+          <h3>Research Interests</h3>
+          <p>${researcher.interests.join(', ')}</p>
         </div>
       </div>
     `).join('');
