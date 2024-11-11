@@ -35,3 +35,12 @@ fetch('./home/news.json')
     const newsGrid = document.querySelector('.news-grid');
     newsGrid.innerHTML = '<p>Failed to load news articles. Please try again later.</p>';
   });
+
+const mobileToggle = document.querySelector('.mobile-toggle');
+const sideNav = document.querySelector('.side-nav');
+let isNavOpen = false;
+
+mobileToggle.addEventListener('click', () => {
+  isNavOpen = !isNavOpen;
+  sideNav.classList.toggle('show', isNavOpen);
+});
